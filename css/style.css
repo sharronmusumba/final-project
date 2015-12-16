@@ -1,0 +1,96 @@
+.team-membe{
+	margin-top: -205px;
+	margin-left: 210px;
+}
+.team-memb{
+	margin-top: -205px;
+	margin-left: 420px;
+}
+.team-mem{
+	margin-top: 2px;
+	margin-left: 70px;
+}
+.team-me{
+	margin-top: -250px;
+	margin-left: 920px;
+}
+.team-m{
+	margin-top: -205px;
+	margin-left: 310px;
+}
+/* Main Content Area */
+
+#main_conten {
+	margin-right: 2px;
+	width: 644px;
+	text-align: center;
+	float: right;
+}
+
+#main_conten .h_divider {
+	margin-bottom: 2px;
+	height: 1px;
+	background-color: #c2c2cd;
+	overflow: hidden;
+}
+
+
+/* New Item Description */
+
+#new_ite {
+	margin: 0px auto 2px;
+	padding: 5px 10px;
+	width: 600px;
+	text-align: justify;
+}
+
+#new_item_header {
+	margin-top: 5px;
+	float: left;
+	width: 600px;
+}
+
+#new_item_header h1 {
+	color: #434367;
+	font-size: 18px;
+	font-weight: normal;
+}
+
+#new_item_header h2 {
+	color: #434367;
+	font-size: 14px;
+	font-weight: bold;
+	font-family: arial, tahoma, sans-serif;
+
+}
+
+#new_item_image {
+	width: 245px;
+	float: right;
+	overflow: hidden;
+	text-align: right;
+}
+
+#new_item_text {
+	float: left;
+	clear: left;
+	width: 348px;
+}
+
+#new_item_link {
+	float: left;
+	clear: left;
+	width: 348px;
+	font-weight: bold;
+	text-align: right;
+}
+
+#new_item_link a {
+	text-decoration: none;
+}
+
+.move{
+ width: 600px;
+ text-align: left;
+	
+}
